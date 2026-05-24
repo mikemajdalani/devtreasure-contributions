@@ -29,7 +29,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
      ```
      My name is [Your Name] and I am here to get my treasure!
      ```
-   Note: Add a '-' before you write your phrase for it to be a list entry 
+     Note: Add a '-' before you write your phrase for it to be a list entry
 
 5. **Commit Your Changes:**
    - Stage your changes:
@@ -51,7 +51,6 @@ Thank you for considering contributing to our devtreasure.com contribution train
    - Go to the original repository on GitHub and click on the 'New Pull Request' button.
    - Select your branch and create a pull request with a description of your changes.
 
-
 ## Contributions
 
 - My name is [Mike](https://github.com/MikeMajdalani1) and I am here to get my treasure!
@@ -60,4 +59,5 @@ Thank you for considering contributing to our devtreasure.com contribution train
 - My name is [Bert](https://github.com/BertAdmin) and I am here to get my treasure!
 - My name is [asad](https://github.com/ajasad25) and I am here to get my treasure!
 - My name is [Spanc](https://github.com/Spanjolec) and I am here to get my treasure!
-my name is [hehe](https://github.com/QUJ24/devtreasure-contributions.git)and I am practice.
+- My name is [hehe](https://github.com/QUJ24/devtreasure-contributions.git)and I am practice.
+- My name is [Emmanuel](https://github.com/PaulEmmanuel8888) and I am here to get my treasure!
