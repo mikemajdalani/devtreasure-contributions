@@ -62,3 +62,4 @@ Thank you for considering contributing to our devtreasure.com contribution train
 - My name is [Spanc](https://github.com/Spanjolec) and I am here to get my treasure!
 my name is [hehe](https://github.com/QUJ24/devtreasure-contributions.git)and I am practice.
 - My name is [Shrey](https://github.com/sm21707) and I am here to get my treasure!
+- My name is [Auta]https://github.com/Auta01 and I am here to get my treasure!
