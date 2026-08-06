@@ -60,3 +60,6 @@ Thank you for considering contributing to our devtreasure.com contribution train
 - My name is [asad](https://github.com/ajasad25) and I am here to get my treasure!
 - My name is [Spanc](https://github.com/Spanjolec) and I am here to get my treasure!
 - My name is [Ros](https://github.com/rohitneverest) and I am here to get my treasure!
+- My name is [Emmanuel](https://github.com/PaulEmmanuel8888) and I am here to get my treasure!
+- my name is [hehe](https://github.com/QUJ24/devtreasure-contributions.git)and I am practice.
+- My name is [Shrey](https://github.com/sm21707) and I am here to get my treasure!
